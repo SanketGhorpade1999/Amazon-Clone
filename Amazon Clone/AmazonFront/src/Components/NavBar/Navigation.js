@@ -22,7 +22,7 @@ class NavBar extends Component {
                 </Link>
                 <div className="navbar__locator">
                     <div className="navbar__locatorImage"></div>
-                    <div className="navbar__location"> Bangalore</div>
+                    <div className="navbar__location">Pune</div>
                 </div>
                 <div className="navbar__searchcomponent">
                     <div>
